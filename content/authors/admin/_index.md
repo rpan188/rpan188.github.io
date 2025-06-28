@@ -85,7 +85,7 @@ work:
     company_name: NVIDIA Coorporation
     # company_url: https://www.nvidia.com/en-us/
     # company_logo: org-nv.svg
-    date_start: 2024-05-20 
+    date_start: 2024-05-20
     date_end: 2024-08-30
     # summary: |2-
     #   Responsibilities include:
